@@ -13,18 +13,6 @@ O objetivo foi praticar **links externos, internos e links para download** em p�
 
 ---
 
-## 📂 Estrutura de arquivos
-index.html
-pag002.html
-/ livro-html
-├── livro-html.pdf
-└── livro-html.zip
-
----
-
-
----
-
 ##  Como testar
 
 1. Clone ou baixe o repositório.
